@@ -1,3 +1,9 @@
-node_modules
+# Ignore node_modules directory
+node_modules/
+images/
 
-.vscode
+# Ignore all .log files
+*.log
+
+# Ignore specific file
+secrets.txt
